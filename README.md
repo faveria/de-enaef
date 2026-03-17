@@ -13,3 +13,6 @@ This project uses GitHub Actions to run a simple CI workflow:
 - Run a simple echo command
 eeeeee
 mas gacell
+
+## Perubahan Oleh Nopall
+Repository ini sedang saya pelajari untuk praktik Git dan CI/CD.
